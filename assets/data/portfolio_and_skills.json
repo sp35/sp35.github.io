@@ -1,0 +1,84 @@
+{
+  "portfolios": [
+    {
+      "name": "StudyDeck",
+      "image": "../../assets/img/portfolio/studydeck.png",
+      "project_url": "https://studydeck.bits-sutechteam.org",
+      "description": "StudyDeck is an all-in-one student assistance application which is a wonderful combo of performance, minimalism and intuitive user experience. StudyDeck helps you make and share schedules, manage notes,and helps you stay focused while it reminds you about deadlines. For the first time ever, this app is available on ALL platforms - Web, Android and iOS. Developed and designed using Flutter, React and Figma, StudyDeck caters to the needs of thousands of students on campus."
+    },
+    {
+      "name": "BITS Sports Union Website",
+      "image": "../../assets/img/portfolio/sports_union.png",
+      "project_url": "https://bits-sports.org",
+      "description": "The official website of Sports Union, BITS Pilani using Django web framework with an Inventory Management System to keep a track of all the Sports Inventory available on campus and a payment gateway integrated with the website to accept donations from the Sports Alumni of the college."
+    },
+    {
+      "name": "MatriNome",
+      "image": "../../assets/img/portfolio/matrinome.png",
+      "project_url": "https://matrinome.herokuapp.com",
+      "source_url": "https://github.com/sp35/MatriNome.git",
+      "description": "A profile matching website where people link with each other. Users fill their profile and see the profile of other users based on their interests listed in the profile and on the basis of filters they apply. Now if the user wants they can choose to smash or pass and then the request is sent to the other user who can accept or decline their request."
+    },
+    {
+      "name": "SUKart",
+      "image": "../../assets/img/portfolio/sukart.png",
+      "project_url": "https://sp35.pythonanywhere.com",
+      "source_url": "https://github.com/sp35/SUKart.git",
+      "description": "A personal small scale e-commerce site. A Shopping User can search for products and order them from the web-app. A Delivery Agent is then alloted that product, through a rule-based algorithm. The Delivery Agent notifies the Shopping User about that product's arrival and it's delivery statuses via emails. The Shopping User can also lodge a complaint, in case of a discrepancy, using the website."
+    },
+    {
+      "name": "Expense Splitter",
+      "image": "../../assets/img/portfolio/dwoc.png",
+      "project_url": "https://expense-splitter.netlify.com",
+      "source_url": "https://github.com/sp35/expense-splitter-backend.git",
+      "description": "Among the top 15 out of 250 participants, selected on the basis of contributions and a project proposal. Worked on Expense Splitter, a basic bill splitting website, with different payment options, one of the nine open source projects under the program. Users can create groups and then split the bill, sending requests to some google pay or other accounts of the user."
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Python",
+      "image": "../../assets/img/skills/python.png"
+    },
+    {
+      "name": "C",
+      "image": "../../assets/img/skills/c.png"
+    },
+    {
+      "name": "C++",
+      "image": "../../assets/img/skills/cplusplus.png"
+    },
+    {
+      "name": "Javascript",
+      "image": "../../assets/img/skills/js.png"
+    },
+    {
+      "name": "HTML",
+      "image": "../../assets/img/skills/html.png"
+    },
+    {
+      "name": "CSS",
+      "image": "../../assets/img/skills/css.png"
+    },
+    {
+      "name": "Django",
+      "image": "../../assets/img/skills/django.png"
+    },
+    {
+      "name": "SQL",
+      "image": "../../assets/img/skills/sql.png"
+    },
+    {
+      "name": "Git",
+      "image": "../../assets/img/skills/git.png"
+    },
+    {
+      "name": "React",
+      "image": "../../assets/img/skills/reactjs.png"
+    },
+    {
+      "name": "Node",
+      "image": "../../assets/img/skills/nodejs.png"
+    }
+  ]
+}
