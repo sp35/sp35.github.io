@@ -1,6 +1,12 @@
 {
   "portfolios": [
     {
+      "name": "Inter BITS Esports",
+      "image": "../../assets/img/portfolio/bits_esports.png",
+      "project_url": "https://bits-sports.org/esports",
+      "description": "A web app that handles team registration, brackets/leaderboard-based tournaments, automated scoring; with a customized admin panel for organizers with different roles."
+    },
+    {
       "name": "StudyDeck",
       "image": "../../assets/img/portfolio/studydeck.png",
       "project_url": "https://studydeck.bits-sutechteam.org",
